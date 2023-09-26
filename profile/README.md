@@ -9,7 +9,7 @@ Welcome to the public GitHub organization of Realply!
 Coming Mid-July 2023
 
 ### Contact
-If you have any questions or concerns, please contact us at eng@mattyoungmedia.com
+If you have any questions or concerns, please contact us at support@realply.com
 
 ### License
 All of our projects are licensed under the MIT License.
